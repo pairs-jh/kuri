@@ -1,6 +1,6 @@
-# Bantu Cognitive Stack
+# Bantu Cognitive Stack 🫵🏾
 
-# Preface to the Bantu Cognitive Stack
+## Preface to the Bantu Cognitive Stack
 
 In the quiet hum of a Ugandan village pot, where the caramelized residue of sweet potatoes clings like a whispered secret, lies the genesis of this exploration. What began as a playful memory—kids scraping "Ebitakuri!" from the bottom of a meal, that African echo of crème brûlée's crust—unfolded into a profound linguistic and philosophical odyssey. This thread, woven from conversations across digital and cultural borders, traces the semantic threads of Bantu languages: from the spatial "kuri" (there, place) to the epistemic "ukuri" (truth as what stands), and onward to a modern epistemic pipeline: Ukhona (presence) → Ivyabona (evidence seen) → Witness (shared testimony).
 
